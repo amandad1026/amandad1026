@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amandad1026
+- 👋 Hi, I’m @amanda but I also go by Alex/Alexis.
 - 👀 I’m interested in QA Engineering as a professional and casual video gaming 
 - 🌱 I’m currently learning basic coding and how to find a job as a QA Engineer
 - 📫 How to reach me: Send me a message on LinkedIn
